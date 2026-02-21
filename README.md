@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello there!
+
+## I am Jude Corasmin, Currently a student at Florida Atlantic University and majoring in Computer Science.
+
+## I Mainly Code in Python, but also do Lau and am trying to learn C++
+
+## I Most just post my projects here and stuff.
 
 <!--
 **JudeCoras/JudeCoras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
